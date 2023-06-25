@@ -1,0 +1,26 @@
+.headg {
+  color: green;
+}
+
+#exDiv {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  opacity: 1;
+  transition: opacity 2s;
+}
+
+#exDiv2 {
+  height: 200px;
+  width: 200px;
+  background-color: green;
+  /* opacity: 1; */
+  transition: opacity 2s;
+}
+
+#img {
+  opacity: 1;
+  transition: opacity 2s;
+  /* to fadeout any element these below properties are necessary */
+  width: 200px;
+}
